@@ -1,6 +1,6 @@
 def new_hash
   hash = {
-   :railroads => {}
+   :new => {}
   }
 end
 
