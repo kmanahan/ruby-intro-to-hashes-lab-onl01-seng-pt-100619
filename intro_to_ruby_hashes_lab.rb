@@ -1,5 +1,7 @@
 def new_hash
-
+  hash = {
+   :railroads => {}
+  }
 end
 
 def actor
